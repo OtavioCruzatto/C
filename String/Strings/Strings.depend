@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534891432 source:c:\users\otavio.cruzatto\documents\otavio\desenvolvimento\linguagem c\string\strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
